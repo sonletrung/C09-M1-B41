@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="bổ%20trợ.css">
+    <title>CV</title>
+</head>
+<body>
+<header>
+    <div class="imgconten">
+      <img src="" alt="">
+    </div>
+    <div class="name">
+        <h1>Irene</h1>
+        <h2>Singer - actor</h2>
+    </div>
+</header>
+<div class="container"></div>
+<div class="sider"></div>
+<div class="conten"></div>
+</body>
+</html>
